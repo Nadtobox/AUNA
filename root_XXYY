@@ -6,14 +6,14 @@
 	</specVersion>
 	<device>
 		<deviceType>urn:schemas-upnp-org:device:MediaRenderer:1</deviceType>
-		<friendlyName>Connect_Nad</friendlyName>
+		<friendlyName>Connect</friendlyName>
 		<manufacturer></manufacturer>
 		<manufacturerURL></manufacturerURL>
 		<modelDescription>Media Renderer Device</modelDescription>
 		<modelName>iRadio Renderer</modelName>
 		<modelNumber></modelNumber>
 		<modelURL></modelURL>
-		<UDN>uuid:54998793-37ab-49d1-9cd7-2032338734B1</UDN>		
+		<UDN>uuid:XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX</UDN>		
 		<dlna:X_DLNADOC xmlns:dlna="urn:schemas-dlna-org:device-1-0">DMR-1.50</dlna:X_DLNADOC>
 		<iconList>
 			<icon>
